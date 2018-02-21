@@ -4,14 +4,9 @@ author: Johannes Barstad
 email: johannesbarstad92@gmail.com
 description: Private blog of Johannes Barstad
 github_username: Barstad
-linkedin_username: 
+linkedin_username: johannesandreasbarstad
 
 # Build settings
 markdown: kramdown
 theme: minima
 
-social-network-links:
-  linkedin: johannesandreasbarstad
-
-share-links-active:
-  linkedin: true
